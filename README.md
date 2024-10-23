@@ -1,9 +1,12 @@
-![alt text](image_compression.gif)
 ![alt text](image.png)
 
 
 ## SVD Image compression
 'SVD Image compression.ipynb' demonstrates the process of image compression using Singular Value Decomposition (SVD). SVD is a powerful mathematical technique that can be used to reduce the dimensionality of data while preserving its essential features. In this notebook, we will apply SVD to binary image and color images and visualize the results.
+
+
+![alt text](image_compression.gif)
+
 
 ## Requirements
 - Python 3.x
